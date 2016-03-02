@@ -1,2 +1,2 @@
 # dataTables.inLineEdit
-Create editable editable tables in minutes
+Create editable tables in simple steps
